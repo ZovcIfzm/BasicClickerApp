@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "36781372051",
+    "project_id": "basicclickerapp",
+    "storage_bucket": "basicclickerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36781372051:android:9f19e1baebbc5b69a79366",
+        "android_client_info": {
+          "package_name": "com.basicclickerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36781372051-3t9oe3btaq3el7d3epvpkg4kneva6rqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlYCLwzbUbUnY2uIflGEUEyz4ntdd8elw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36781372051-3t9oe3btaq3el7d3epvpkg4kneva6rqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
